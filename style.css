@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+
+.Auth {
+    display: inline-block;
+    margin: 72px auto;
+}
+
+.Auth__form {}
+
+.Form__Item {
+    margin-bottom: 0;
+}
+
+.Form__Item_margin-bottom-0 {
+    margin-bottom: 0;
+}
+
+.Item__label {
+    margin-bottom: 8px;
+    text-align: left;
+    cursor: default;
+}
+
+.Item__button {
+    padding: 16px 0;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.Auth_footer {}
+
+.Footer__link {
+    cursor: pointer;
+}
